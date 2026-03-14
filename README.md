@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🍎 Tech Stack
+**🍎 Tech Stack**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
