@@ -13,7 +13,7 @@
 ![SnapKit](https://img.shields.io/badge/SnapKit-black?style=flat-square)
 ![Moya](https://img.shields.io/badge/Moya-black?style=flat-square)
 ![Kingfisher](https://img.shields.io/badge/Kingfisher-black?style=flat-square)
-![Alamofire](https://img.shields.io/badge/Alamofire-black?style=flat-square)
+
 
 ### 🛠 Tools
 
