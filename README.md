@@ -21,4 +21,3 @@
 ![Xcode](https://img.shields.io/badge/Xcode-black?style=flat-square&logo=xcode)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=flat-square&logo=githubactions)
-![Tuist](https://img.shields.io/badge/Tuist-black?style=flat-square)
